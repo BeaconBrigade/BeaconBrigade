@@ -10,6 +10,8 @@
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=BeaconBrigade&show_icons=true&theme=light)
 
+![My Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeaconBrigade)
+
  ![Ferris!](https://user-images.githubusercontent.com/100320298/171472910-524ba70a-9a73-4b88-b36b-3f05380c97b9.png)
  
  ![Cpp logo](https://user-images.githubusercontent.com/100320298/171473294-81221f19-b0a1-42a0-b4ea-5222b55d0e97.png)

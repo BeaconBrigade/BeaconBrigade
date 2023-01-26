@@ -5,6 +5,7 @@
 - 👀 I’m interested in how computers work.
 - 🌱 I'm currently working a simulation of Le Chatelier's principle using rust
 - 📫 How to reach me beaconbrigade@gmail.com
+- <a rel="me" href="https://mstdn.ca/@beaconbrigade">My Mastodon</a>
 
 # :) 
 

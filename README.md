@@ -1,10 +1,9 @@
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
 
 # Beacon Brigade
-- 👋 Hi, I’m @BeaconBrigade
-- 👀 I’m interested in how computers work.
-- 🌱 I'm currently working a simulation of Le Chatelier's principle using rust
-- 📫 How to reach me beaconbrigade@gmail.com
+- I’m @BeaconBrigade
+- Reach me at beaconbrigade@gmail.com
+- Interested in Rust and Border Collies
 - My <a rel="me" href="https://mstdn.ca/@beaconbrigade">Mastodon</a>
 
 # :) 
